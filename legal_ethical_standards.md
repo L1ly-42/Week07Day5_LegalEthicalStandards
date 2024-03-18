@@ -40,6 +40,28 @@ BankingCorp are one of the leading retail banks in the country, offering a full 
 
 They have recently been approached by a payday loan company who want to send direct marketing to users struggling to pay their credit card bills. The loan company want to email the customers they feel would be most likely to use their services but acknowledge that manually identifying targets would be time-consuming and want to develop an algorithm to automate this. BankingCorp have given them access to their systems to test this algorithm, ensuring it works with real customer data. The loan company have had some negative publicity recently and so BankingCorp will not be announcing this new partnership publicly. Instead they will inform customers in an email explaining the changes to their terms and conditions.
 
+2. What are the ethical concerns with the company's proposal? 
+
+There are a few ethical concerns with the company’s proposal. Firstly, there are concerns around transparency and honesty, as the company is not being public about their partnership with the payday loan company and what exactly the users’ data will be used for, since only mentioning a change of ‘terms and conditions’ is vague for a lot of users who will not assume it would mean such a big change to how the company will operate and how their data is being used. Secondly, only sending an email to users can also cause accessibility issues for users who do not have access to technology to find out about this change. There are also issues with user privacy and consent as users' sensitive information will be used for unethical means, with users not having an option to opt out or the company getting confirmation from users that they consent to their data being used this way. 
+
+3. What could the company do to address these issues? 
+
+ The company could do the following to address these issues. 
+
+ - Allow developers to express their concerns about the plan  
+
+- Allow users to opt out of having their data used in the algorithm testing 
+
+- Use a broader means of informing users of this change that is more accessible for users to see and that is fully honest and transparent about how the data will be used 
+
+- Check that this use of data is incompliance data protection regulations like GDPR and CCPR 
+
+- Check to see what the algorithm testing will entail, in particular what pieces of data will it have access to and could it be bias prone e.g. targeting certain ethnicities that are more likely to be poor. 
+
+- Check this proposal is not in violation with other laws that might not allow payday loans to access user data in that country. 
+
+
+
 ### Scenario 2
 
 The new mobile game Treasure Hunters has been taking the country by storm. Players are shown an illustrated map and must find the hidden treasure by following clues and solving puzzles. The quicker a player finds the treasure the more points they score and they can compare their scores with their friends. Five new maps are added every day and each map can be completed in a few minutes, with the low time commitment making the game a huge hit with casual players. There are many players who would like more puzzles, though.
