@@ -74,7 +74,24 @@ The developers have been taken aback by the success of the game and are struggli
 
 Their development plans involve adding a premium membership which will lock many of the existing features behind a paywall. Free users will only be able to view limited versions of profiles and have a daily cap on the number of matches which can be made. Premium users, on the other hand, will now have more specific location settings and be able to filter their matches. To advertise the premium service the free-tier users will be given occasional "trial periods" of the premium tier followed by adverts showing them what they could unlock by subscribing. Additionally the generic banner ads will be replaced by more targeted advertising for local businesses. Users' location data will be shared in order to ensure relevant businesses are being advertised.
 
+2. What are the ethical concerns with the company's proposal? 
 
+Firstly, there could be issues with user privacy and confidentiality as user location data will be used by third parties with this proposal without a clear plan to inform users and get their consent to this use of their data. Secondly, this raises issues with quality and reliability as users who would have downloaded the app based on the features that are going to be put behind a paywall will no longer have access to the software promised at the time of downloading. This also poses issues of possible exploitation of a vulnerable population, as it is an app for meeting friends which can be a source of insecurity for people in a society that puts emphasis on being social. Users can be quite vulnerable and so more likely to give money out of desperation to form friendships with people in their local area. 
+
+3. What could the company do to address these issues? 
+
+ The company could do the following to address these issues. 
+
+- Consider only putting extra features behind a paywall – not ones that are currently a part of the app (especially since the app is already getting money from adverts) 
+
+- Let users know about their location data being used by third party apps for the purposes of advertisement 
+
+- Also consider only locking premium features behind a paywall to new users with fully transparent information about this paywall and what the new advertising will mean for the user 
+
+- Look into international law to see how old users will need to be to use an app that could require payment 
+
+- Ensure that third parties are using data responsibly and that there is sufficient security within the app to ensure that sensitive user data does not get leaked e.g. card information
+   
 ## Additional Resources
 
 - [Ten legal issues in software development](https://www.lawdonut.co.uk/business/blog/24/01/ten-legal-issues-software-development#:~:text=Which%20are%20the%20legal%20issues,%2Dinfringement%20of%20others'%20rights.)
