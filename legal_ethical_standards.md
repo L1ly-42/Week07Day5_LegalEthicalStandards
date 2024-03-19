@@ -40,10 +40,15 @@ BankingCorp are one of the leading retail banks in the country, offering a full 
 
 They have recently been approached by a payday loan company who want to send direct marketing to users struggling to pay their credit card bills. The loan company want to email the customers they feel would be most likely to use their services but acknowledge that manually identifying targets would be time-consuming and want to develop an algorithm to automate this. BankingCorp have given them access to their systems to test this algorithm, ensuring it works with real customer data. The loan company have had some negative publicity recently and so BankingCorp will not be announcing this new partnership publicly. Instead they will inform customers in an email explaining the changes to their terms and conditions.
 
+> 1. Is the company breaking any laws with their proposal? 
+> 
+> This proposal could be non-compliant with data protection regulations like GDPR and CCPA when it comes to data protection and privacy, the proposal will expose sensitive data to third-party software,
+> posing a potential security risk. This is especially prevalent as the third party has a bad reputation, so it is more likely for them to have bad ethics as a company and therefore misuse the data.
+> Finally, the proposal could break international laws as there are countries that prohibit loans and so might not allow a payday loan company to have access to users in that country. 
+> 
 > 2. What are the ethical concerns with the company's proposal? 
 >
-> There are a few ethical concerns with the company’s proposal. Firstly, there are concerns around transparency and honesty, as the company is not being public about their partnership with the payday loan company and what exactly the users’ data will be used
-for, since only mentioning a change of ‘terms and conditions’ is vague for a lot of users who will not assume it would mean such a big change to how the company will operate and how their data is being used. Secondly, only sending an email to users can also cause accessibility issues for users who do not have access to technology to find out about this change. There are also issues with user privacy and consent as users' sensitive information will be used for unethical means, with users not having an option to  opt out or the company getting confirmation from users that they consent to their data being used this way. 
+>  There are a few ethical concerns with the company’s proposal. Firstly, there are concerns around transparency and honesty, as the company is not being public about their partnership with the payday loan company and what exactly the users’ data will be used for, since only mentioning a change of ‘terms and conditions’ is vague for a lot of users who will not assume it would mean such a big change to how the company will operate and how their data is being  used. Secondly, only sending an email to users can also cause accessibility issues for users who do not have access to technology to find out about this change. There are also issues with user privacy and consent as users' sensitive information will be used for unethical means, with users not having an option to  opt out or the company getting confirmation from users that they consent to their data being used this way. 
 >
 > 3. What could the company do to address these issues? 
 >
@@ -77,7 +82,7 @@ Their development plans involve adding a premium membership which will lock many
 > 2. What are the ethical concerns with the company's proposal? 
 >
 > Firstly, there could be issues with user privacy and confidentiality as user location data will be used by third parties with this proposal without a clear plan to inform users and get their consent to this use of their data. Secondly, this raises issues 
-> with quality and reliability as users who would have downloaded the app based on the features that are going to be put behind a paywall will no longer have access to the software promised at the time of downloading. This also poses issues of possible exploitation of a vulnerable population, as it is an app for meeting friends which can be a source of insecurity for people in a society that puts emphasis on being social. Users can be quite vulnerable and so more likely to give money out of desperation to form friendships with people in their local area. 
+with quality and reliability as users who would have downloaded the app based on the features that are going to be put behind a paywall will no longer have access to the software promised at the time of downloading. This also poses issues of possible exploitation of a vulnerable population, as it is an app for meeting friends which can be a source of insecurity for people in a society that puts emphasis on being social. Users can be quite vulnerable and so more likely to give money out of desperation to form friendships with people in their local area. 
 > 
 > 3. What could the company do to address these issues? 
 > 
