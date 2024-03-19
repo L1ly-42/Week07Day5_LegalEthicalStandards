@@ -74,6 +74,10 @@ The developers have been taken aback by the success of the game and are struggli
 
 Their development plans involve adding a premium membership which will lock many of the existing features behind a paywall. Free users will only be able to view limited versions of profiles and have a daily cap on the number of matches which can be made. Premium users, on the other hand, will now have more specific location settings and be able to filter their matches. To advertise the premium service the free-tier users will be given occasional "trial periods" of the premium tier followed by adverts showing them what they could unlock by subscribing. Additionally the generic banner ads will be replaced by more targeted advertising for local businesses. Users' location data will be shared in order to ensure relevant businesses are being advertised.
 
+>*1. Is the company breaking any laws with their proposal?* 
+>
+>This proposal could be non-compliant with data protection regulations like GDPR and CCPA when it comes to data protection and privacy as it involves user’s location data being shared with third parties, who could misuse it, without expressly notifying the users of this or getting consent from users. In addition, it could be non-compliant with international laws as this change involves users paying money to use certain parts of the app and possibly exposing bank information, which certain countries might have an age restriction on. 
+>
 > *2. What are the ethical concerns with the company's proposal?* 
 >
 > Firstly, there could be issues with user privacy and confidentiality as user location data will be used by third parties with this proposal without a clear plan to inform users and get their consent to this use of their data. Secondly, this raises issues 
