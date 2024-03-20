@@ -68,15 +68,15 @@ The new mobile game Treasure Hunters has been taking the country by storm. Playe
 
 The developers have been taken aback by the success of the game and are struggling to keep up with demand. They have had to spin up more servers and are looking to hire more engineers to keep working on content. That costs money though, and they are looking to monetise the game. Instead of adding new maps daily they will continually be adding more which players can unlock by completing existing maps. Players will be able to spend their points to unlock hints which will help them progress faster. Hints will also be available to purchase using real-world money, with the possibility of offering multi-buy discounts at a later date.
 
-> 1. Is the company breaking any laws with their proposal? 
+> *1. Is the company breaking any laws with their proposal?*
 >
 > This proposal could be non-compliant with data protection regulations like GDPR and CCPA when it comes to data protection as the proposal involves users potentially divulging their card information to purchase the hints. In addition, it could be non-compliant with international laws as this change involves users paying money to use certain parts of the app and possibly exposing bank information, which certain countries might have an age restriction on. 
 >
-> 2. What are the ethical concerns with the company's proposal? 
+> *2. What are the ethical concerns with the company's proposal?*
 >
 > As this proposal involves new functionalities into the app, e.g. the locking of certain maps and existence of hints, this could pose integration challenges. If the company rushes the development process to monetise the app quicker, this could also pose quality assurance issues as developers will be prone to doing inadequate testing to save time. There are also sustainability concerns as the use of more and more servers for the purposes of making more content could have an adverse environmental impact.  
 >
-> 3. What could the company do to address these issues? 
+> *3. What could the company do to address these issues?*
 >
 > The company could do the following: 
 >
